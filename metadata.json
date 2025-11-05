@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Fitness Pal",
+  "description": "A modern fitness and calorie tracking application powered by Gemini. Log your meals and workouts, and get AI-powered estimates for calorie counts and burn rates to help you achieve your health goals.",
+  "requestFramePermissions": []
+}
